@@ -1,0 +1,145 @@
+body{
+    background-color: #111118;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 30px;
+    margin-top: -160px;
+    
+   
+}
+
+#logo{
+    width:31px;
+}
+#hamburger{
+    width:44px;
+    height: 50px;
+}
+.container {
+	padding: 10px;
+	background:#111118;
+    border-radius: 5px;
+	margin: 45px auto;
+}
+
+.item {
+	color: #fff;
+	padding: 15px;
+	margin: 5px;	
+	background: #3db5da;
+	border-radius: 3px;
+}
+p{
+    color: white;
+    align-items: center;
+    margin: 0px 30px;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+   }
+
+   h6 {
+    color:#757575;
+    margin: 0px 30px 9px;
+    font-size: x-small;
+}
+#viewall{
+    font-style: italic;
+    font-size: 30px;
+    margin-left: 597px;
+    margin-top: -80px;
+    color: #757575;
+}
+.nav1{
+    margin-top: 150px;
+    color: white;
+}
+.containers{
+
+    color: white;
+    font-size: 60px;
+    margin-top: 125px;
+    margin-left: 25px;
+}
+
+figure {
+    position: relative;
+    margin: 0;
+    margin-left: 25px;
+}
+figcaption{
+    position: absolute;
+    width: 100%;
+    bottom: 20px;
+    color: white;
+    margin-left: 10px;
+}
+img{
+    width: 300px;
+    margin-top: 80px;
+    height: 200px;
+}
+aside{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    box-sizing: border-box;
+    
+}
+#locations{
+    margin-bottom: 193px;
+    margin-left: -1px;
+    font-size: x-small;
+    line-height: 1.5;
+    color:#757575;
+}
+.hero{
+    margin-left: 110px;
+}
+a.button {
+    display: inline-block;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px 20px 10px 20px;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 518px;
+    margin-top: 15px;
+    
+}
+section.hero p {
+    font-size: 32px;
+    font-weight: 700;
+    font-family: David Libre;
+    max-width: 500px;
+    margin: 0 auto 20px auto;
+    line-height: 1;
+    margin-left: 396px;
+}
+#center{
+        margin-top: 104px;
+        margin-left: 550px;
+        color: #757575;
+}
+#center1{
+    margin-left: 510px
+}
+footer {
+    display: flex;
+    justify-content: center;
+    font-size: 24px;
+    margin-top: 180px;
+    margin-left: 200px;
+  }
+  footer div {
+    width: 320px;
+  } 
+  
+  footer a {
+    color: white;
+  }
+    
