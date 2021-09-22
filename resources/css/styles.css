@@ -108,7 +108,7 @@ a.button {
     text-decoration: none;
     font-size: 18px;
     font-weight: 700;
-    margin-left: 502px;
+    margin-left: 394px;
     margin-top: 15px;
     
 }
@@ -119,15 +119,15 @@ section.hero p {
     max-width: 500px;
     margin: 0 auto 20px auto;
     line-height: 1;
-    margin-left: 396px;
+    margin-left: 274px;
 }
 #center{
         margin-top: 104px;
-        margin-left: 550px;
+        margin-left: 437px;
         color: #757575;
 }
 #center1{
-    margin-left: 510px
+    margin-left: 294px;
 }
 footer {
     display: flex;
