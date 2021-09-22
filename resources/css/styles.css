@@ -129,7 +129,7 @@ section.hero p {
 #center1{
     margin-left: 387px;
 }
-footer {
+.subfooter {
     display: flex;
     justify-content: center;
     font-size: 10px;
