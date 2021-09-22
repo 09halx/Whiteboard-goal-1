@@ -171,8 +171,10 @@ section.hero p {
 
 }
 .logos {
-    margin-top: -190px;
+    margin-top: -15px;
     margin-left: 850px;
+    font-size: 12px;
+	
 }
 .fa-facebook {
     color: #757575
