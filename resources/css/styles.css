@@ -94,6 +94,7 @@ aside{
     font-size: x-small;
     line-height: 1.5;
     color:#757575;
+   
 }
 .hero{
     margin-left: 110px;
@@ -107,7 +108,7 @@ a.button {
     text-decoration: none;
     font-size: 18px;
     font-weight: 700;
-    margin-left: 518px;
+    margin-left: 502px;
     margin-top: 15px;
     
 }
@@ -131,7 +132,7 @@ section.hero p {
 footer {
     display: flex;
     justify-content: center;
-    font-size: 24px;
+    font-size: 10px;
     margin-top: 180px;
     margin-left: 200px;
   }
@@ -141,5 +142,56 @@ footer {
   
   footer a {
     color: white;
+    text-decoration: none;
   }
-    
+ 
+
+  @font-face {
+    font-family: "Good Sans";
+    src: url(GoodSans-Regular.otf);
+  }
+  
+  @font-face {
+    font-family: "Cambon";
+    src: url(Cambon-Light.otf);
+  }
+  
+  body {
+    font-family: Good Sans, Arial;
+  }
+  .mini a{
+    color: #757575;
+    font-size: 10px;
+    display: inline;
+    justify-content: start;
+}
+.mini{
+    max-width: 1200px;
+    margin-right: 800px;
+
+}
+.logos {
+    margin-top: -190px;
+    margin-left: 850px;
+}
+.fa-facebook {
+    color: #757575
+  }
+  
+  .fa-twitter {
+    color: #757575
+  }
+  .fa-instagram {
+    color: #757575
+  }
+  .fa-linkedin {
+    color: #757575
+  }
+  .fa-slack {
+    color: #757575
+  }
+  .footerlogo{
+    margin-left: -166px;
+    margin-top: -121px;
+}
+  
